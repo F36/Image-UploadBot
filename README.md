@@ -1,2 +1,16 @@
-# TelegraphBotNew
-You can upload photos on Telegram To Telegra.ph using this bot. (New)
+# Image-UploadBot
+
+> A simplest telegram to telegra.ph image uploader bot
+
+##### Deploying The Easy Way
+
+<details>
+  <summary>Steps to deploy on Heroku !! </summary>
+
+```
+Fill in Bot Token API ID ,API HASH , Deploy! 
+```
+
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/F36/TelegraphBot/tree/master)
+
+</details>
