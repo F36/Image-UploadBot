@@ -11,6 +11,6 @@
 Fill in Bot Token API ID ,API HASH , Deploy! 
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/F36/TelegraphBot/tree/master)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/F36/TelegraphBotNew/tree/master)
 
 </details>
